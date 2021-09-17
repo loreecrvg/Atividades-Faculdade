@@ -1,5 +1,5 @@
-# Atividades Faculdade
- Atividades exercídas no decorrer da faculdade
+# Atividade da Faculdade
+ Atividade exercídas no decorrer da faculdade
 
  Primeiro-código-C++
  
